@@ -36,12 +36,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lipecorrales&exclude_repo=KNN-Image-Classification&show_icons=true&theme=dark&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
-
+<!--
 <a href="https://github.com/lipecorrales">
  <img style="border-radius: 50%;" src="https://user-images.githubusercontent.com/20006038/147094169-03901179-e080-4dae-8236-666f32e42482.jpg" width="100px;" alt="" />
  <br />
  <sub><b>Philippe Corrales</b></sub></a> <a href="https://github.com/lipecorrales" title="Philippe Corrales">🚀</a>
-
+-->
 
 Feito com ❤️ por Philippe Corrales 👋🏽 Entre em contato!
 
