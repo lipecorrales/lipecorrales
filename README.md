@@ -13,7 +13,7 @@
   **Falando sobre Coisas Pessoais:**
   
 - 👨🏻‍💻 Atualmente estou trabalhando em algo legal;
-- 🚀 Atualmente estou aprendendo Estruturas de Dados e Algoritmos no C# e JAVA;
+- 🚀 Atualmente estou aprendendo Estruturas de Dados, Python, Vue.JS, HTML5, CSS e JavaScript;
 - 💬 Pergunte-me sobre qualquer coisa, fico feliz em ajudar;
 - 📫 Como me encontrar: philippecorrales@gmail.com;
   
